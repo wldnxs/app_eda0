@@ -1,0 +1,9 @@
+streamlit
+pyrebase4
+setuptools
+pandas
+numpy
+matplotlib
+seaborn
+time
+io
